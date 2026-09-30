@@ -1,0 +1,24 @@
+{"clients":[
+{"id":2001,"societe":"Transports Rhodaniens","ville":"Corbas (69)","contact":"Madame Sophie Vasseur","contrat":"Premium","points":34,"statut":"À jour","interlocuteur":"José GARCIA","vip":true,"notes":"Cliente VIP depuis 2023 : électrification de toute la flotte de véhicules utilitaires. Toujours proposer son chargé d'affaires José GARCIA.","tel":"0465713001 0639980011"},
+{"id":2002,"societe":"Hôtel Les Balcons du Rhône","ville":"Lyon 7e (69)","contact":"Monsieur Patrick Rolland","contrat":"Confort","points":6,"statut":"À jour","interlocuteur":"Michel BLANC","notes":"Les bornes servent aux clients de l'hôtel : une borne en panne génère des réclamations.","tel":"0465713002 0639980012"},
+{"id":2003,"societe":"Copropriété Le Clos des Érables","ville":"Villeurbanne (69)","contact":"Madame Anne Giraud","contrat":"Essentiel","points":12,"statut":"À jour","interlocuteur":"Alain CHABAT","tel":"0465713003 0639981203"},
+{"id":2004,"societe":"Garage Delta Automobiles","ville":"Saint-Priest (69)","contact":"Monsieur Karim Haddad","contrat":"Premium","points":4,"statut":"À jour","interlocuteur":"Alain CHABAT","tel":"0465713004 0639981204"},
+{"id":2005,"societe":"Mairie de Tassin-les-Prés","ville":"Tassin-les-Prés (69)","contact":"Monsieur Bruno Petit","contrat":"Confort","points":8,"statut":"À jour","interlocuteur":"Alain CHABAT","tel":"0465713005 0639981205"},
+{"id":2006,"societe":"Groupe Immobilier Axone","ville":"Lyon 3e (69)","contact":"Monsieur Julien Marchand","contrat":"Premium","points":48,"statut":"À jour","interlocuteur":"José GARCIA","vip":true,"tel":"0465713006 0639981206"},
+{"id":2007,"societe":"Campus Alpin Innovation","ville":"Grenoble (38)","contact":"Madame Laura Chevalier","contrat":"Confort","points":10,"statut":"À jour","interlocuteur":"Nadia FERRAND","tel":"0465713007 0639981207"},
+{"id":2008,"societe":"Domaine des Volcans","ville":"Clermont-Ferrand (63)","contact":"Monsieur Éric Fabre","contrat":"Essentiel","points":4,"statut":"À jour","interlocuteur":"Luc BERTRAND","tel":"0465713008 0639981208"},
+{"id":2009,"societe":"Laboratoire Biolys","ville":"Vénissieux (69)","contact":"Madame Inès Colin","contrat":"Confort","points":6,"statut":"Retard de paiement","interlocuteur":"Alain CHABAT","notes":"Retard de paiement : orienter vers l'ADV (Sarah LOPEZ).","tel":"0465713009 0639981209"},
+{"id":2010,"societe":"Restaurant Les Canuts","ville":"Lyon 4e (69)","contact":"Monsieur Hugo Perrin","contrat":"Sans contrat","points":2,"statut":"À jour","interlocuteur":"Alain CHABAT","tel":"0465713010 0639981210"}
+],"commandes":[
+{"id":"CMD-2026-0412","client_id":"2001","objet":"14 bornes ORVA Pro 22 et 2 bornes rapides ORVA Fast 50, dépôt de Corbas","statut":"Matériel reçu, pose planifiée","suite":"Matériel reçu le 24/09. Pose les mardi 20 et mercredi 21 octobre 2026 par deux équipes. Mise en service et formation le jeudi 22 octobre à 10h00."},
+{"id":"CMD-2026-0398","client_id":"2001","objet":"6 bornes ORVA Pro 22, agence de Saint-Priest","statut":"Terminée","suite":"Installées et mises en service le 17/09/2026."},
+{"id":"CMD-2026-0420","client_id":"2004","objet":"1 borne rapide ORVA Fast 150","statut":"Attente de raccordement","suite":"Raccordement au réseau électrique prévu semaine 43, pose sous 5 jours ouvrés ensuite."},
+{"id":"CMD-2026-0431","client_id":"2003","objet":"Infrastructure collective et 12 points ORVA Pro 11","statut":"Visite technique planifiée","suite":"Visite technique le 19 octobre à 9h00."},
+{"id":"CMD-2026-0436","client_id":"2006","objet":"20 bornes ORVA Pro 22, résidence Part-Dieu","statut":"En préparation","suite":"Livraison du matériel prévue le 20 octobre."}
+],"interventions":[
+{"id":"INT-2026-0587","client_id":"2002","objet":"Borne n°2 du parking hors service (code E42)","priorite":"P2","statut":"Technicien planifié","technicien":"Michel BLANC","suite":"Diagnostic à distance : carte de communication à remplacer, pièce en stock. Passage de Michel BLANC le jeudi 15 octobre 2026 entre 14h00 et 16h00. Les 5 autres bornes fonctionnent."},
+{"id":"INT-2026-0571","client_id":"2002","objet":"Maintenance préventive annuelle","priorite":"P4","statut":"Planifiée","technicien":"Michel BLANC","suite":"Visite prévue le 18 novembre 2026."},
+{"id":"INT-2026-0580","client_id":"2004","objet":"Borne rapide : charge limitée à 20 kW","priorite":"P3","statut":"En cours","technicien":"Michel BLANC","suite":"Mise à jour du logiciel de la borne à distance le 16 octobre."},
+{"id":"INT-2026-0590","client_id":"2006","objet":"Badges d'accès non reconnus","priorite":"P3","statut":"En attente client","technicien":"Michel BLANC","suite":"Attente de la liste des badges à réactiver."},
+{"id":"INT-2026-0584","client_id":"2009","objet":"Écran de la borne n°1 éteint","priorite":"P3","statut":"Suspendue","technicien":"Michel BLANC","suite":"Suspendue : compte en retard de paiement, voir l'ADV."}
+]}
