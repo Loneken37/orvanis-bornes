@@ -1,0 +1,29 @@
+{
+ "id": 2004,
+ "societe": "Garage Delta Automobiles",
+ "ville": "Saint-Priest (69)",
+ "contact": "Monsieur Karim Haddad",
+ "fonction": "Gérant",
+ "contrat_maintenance": "Premium",
+ "points_de_charge": 4,
+ "statut_compte": "À jour",
+ "interlocuteur_orvanis": "Alain CHABAT",
+ "commandes": [
+  {
+   "id": "CMD-2026-0420",
+   "objet": "1 borne rapide ORVA Fast 150",
+   "statut": "Attente de raccordement",
+   "suite": "Raccordement au réseau électrique prévu semaine 43, pose sous 5 jours ouvrés ensuite."
+  }
+ ],
+ "interventions": [
+  {
+   "id": "INT-2026-0580",
+   "objet": "Borne rapide : charge limitée à 20 kW",
+   "priorite": "P3",
+   "statut": "En cours",
+   "technicien": "Michel BLANC",
+   "suite": "Mise à jour du logiciel de la borne à distance le 16 octobre."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "id": 2002,
+ "societe": "Hôtel Les Balcons du Rhône",
+ "ville": "Lyon 7e (69)",
+ "contact": "Monsieur Patrick Rolland",
+ "fonction": "Directeur",
+ "contrat_maintenance": "Confort",
+ "points_de_charge": 6,
+ "statut_compte": "À jour",
+ "interlocuteur_orvanis": "Michel BLANC",
+ "consignes": "Les bornes servent aux clients de l'hôtel : une borne en panne génère des réclamations.",
+ "commandes": [],
+ "interventions": [
+  {
+   "id": "INT-2026-0587",
+   "objet": "Borne n°2 du parking hors service (code E42)",
+   "priorite": "P2",
+   "statut": "Technicien planifié",
+   "technicien": "Michel BLANC",
+   "suite": "Diagnostic à distance : carte de communication à remplacer, pièce en stock. Passage de Michel BLANC le jeudi 15 octobre 2026 entre 14h00 et 16h00. Les 5 autres bornes fonctionnent."
+  },
+  {
+   "id": "INT-2026-0571",
+   "objet": "Maintenance préventive annuelle",
+   "priorite": "P4",
+   "statut": "Planifiée",
+   "technicien": "Michel BLANC",
+   "suite": "Visite prévue le 18 novembre 2026."
+  }
+ ]
+}

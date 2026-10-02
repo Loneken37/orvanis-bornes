@@ -1,0 +1,20 @@
+{
+ "id": 2003,
+ "societe": "Copropriété Le Clos des Érables",
+ "ville": "Villeurbanne (69)",
+ "contact": "Madame Anne Giraud",
+ "fonction": "Présidente du conseil syndical",
+ "contrat_maintenance": "Essentiel",
+ "points_de_charge": 12,
+ "statut_compte": "À jour",
+ "interlocuteur_orvanis": "Alain CHABAT",
+ "commandes": [
+  {
+   "id": "CMD-2026-0431",
+   "objet": "Infrastructure collective et 12 points ORVA Pro 11",
+   "statut": "Visite technique planifiée",
+   "suite": "Visite technique le 19 octobre à 9h00."
+  }
+ ],
+ "interventions": []
+}

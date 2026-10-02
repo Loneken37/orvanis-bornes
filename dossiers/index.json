@@ -1,0 +1,74 @@
+{
+ "clients": [
+  {
+   "id": 2001,
+   "societe": "Transports Rhodaniens",
+   "ville": "Corbas (69)",
+   "contact": "Madame Sophie Vasseur",
+   "tel": "0465713001 0639980011"
+  },
+  {
+   "id": 2002,
+   "societe": "Hôtel Les Balcons du Rhône",
+   "ville": "Lyon 7e (69)",
+   "contact": "Monsieur Patrick Rolland",
+   "tel": "0465713002 0639980012"
+  },
+  {
+   "id": 2003,
+   "societe": "Copropriété Le Clos des Érables",
+   "ville": "Villeurbanne (69)",
+   "contact": "Madame Anne Giraud",
+   "tel": "0465713003 0639981203"
+  },
+  {
+   "id": 2004,
+   "societe": "Garage Delta Automobiles",
+   "ville": "Saint-Priest (69)",
+   "contact": "Monsieur Karim Haddad",
+   "tel": "0465713004 0639981204"
+  },
+  {
+   "id": 2005,
+   "societe": "Mairie de Tassin-les-Prés",
+   "ville": "Tassin-les-Prés (69)",
+   "contact": "Monsieur Bruno Petit",
+   "tel": "0465713005 0639981205"
+  },
+  {
+   "id": 2006,
+   "societe": "Groupe Immobilier Axone",
+   "ville": "Lyon 3e (69)",
+   "contact": "Monsieur Julien Marchand",
+   "tel": "0465713006 0639981206"
+  },
+  {
+   "id": 2007,
+   "societe": "Campus Alpin Innovation",
+   "ville": "Grenoble (38)",
+   "contact": "Madame Laura Chevalier",
+   "tel": "0465713007 0639981207"
+  },
+  {
+   "id": 2008,
+   "societe": "Domaine des Volcans",
+   "ville": "Clermont-Ferrand (63)",
+   "contact": "Monsieur Éric Fabre",
+   "tel": "0465713008 0639981208"
+  },
+  {
+   "id": 2009,
+   "societe": "Laboratoire Biolys",
+   "ville": "Vénissieux (69)",
+   "contact": "Madame Inès Colin",
+   "tel": "0465713009 0639981209"
+  },
+  {
+   "id": 2010,
+   "societe": "Restaurant Les Canuts",
+   "ville": "Lyon 4e (69)",
+   "contact": "Monsieur Hugo Perrin",
+   "tel": "0465713010 0639981210"
+  }
+ ]
+}

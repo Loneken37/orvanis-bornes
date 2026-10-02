@@ -1,0 +1,13 @@
+{
+ "id": 2010,
+ "societe": "Restaurant Les Canuts",
+ "ville": "Lyon 4e (69)",
+ "contact": "Monsieur Hugo Perrin",
+ "fonction": "Gérant",
+ "contrat_maintenance": "Sans contrat",
+ "points_de_charge": 2,
+ "statut_compte": "À jour",
+ "interlocuteur_orvanis": "Alain CHABAT",
+ "commandes": [],
+ "interventions": []
+}

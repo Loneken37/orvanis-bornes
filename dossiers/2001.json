@@ -1,0 +1,28 @@
+{
+ "id": 2001,
+ "societe": "Transports Rhodaniens",
+ "ville": "Corbas (69)",
+ "contact": "Madame Sophie Vasseur",
+ "fonction": "Directrice des services généraux",
+ "contrat_maintenance": "Premium",
+ "points_de_charge": 34,
+ "statut_compte": "À jour",
+ "interlocuteur_orvanis": "José GARCIA",
+ "vip": true,
+ "consignes": "Cliente VIP depuis 2023 : électrification de toute la flotte de véhicules utilitaires. Toujours proposer son chargé d'affaires José GARCIA.",
+ "commandes": [
+  {
+   "id": "CMD-2026-0412",
+   "objet": "14 bornes ORVA Pro 22 et 2 bornes rapides ORVA Fast 50, dépôt de Corbas",
+   "statut": "Matériel reçu, pose planifiée",
+   "suite": "Matériel reçu le 24/09. Pose les mardi 20 et mercredi 21 octobre 2026 par deux équipes. Mise en service et formation le jeudi 22 octobre à 10h00."
+  },
+  {
+   "id": "CMD-2026-0398",
+   "objet": "6 bornes ORVA Pro 22, agence de Saint-Priest",
+   "statut": "Terminée",
+   "suite": "Installées et mises en service le 17/09/2026."
+  }
+ ],
+ "interventions": []
+}

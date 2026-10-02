@@ -1,0 +1,30 @@
+{
+ "id": 2006,
+ "societe": "Groupe Immobilier Axone",
+ "ville": "Lyon 3e (69)",
+ "contact": "Monsieur Julien Marchand",
+ "fonction": "Directeur du patrimoine",
+ "contrat_maintenance": "Premium",
+ "points_de_charge": 48,
+ "statut_compte": "À jour",
+ "interlocuteur_orvanis": "José GARCIA",
+ "vip": true,
+ "commandes": [
+  {
+   "id": "CMD-2026-0436",
+   "objet": "20 bornes ORVA Pro 22, résidence Part-Dieu",
+   "statut": "En préparation",
+   "suite": "Livraison du matériel prévue le 20 octobre."
+  }
+ ],
+ "interventions": [
+  {
+   "id": "INT-2026-0590",
+   "objet": "Badges d'accès non reconnus",
+   "priorite": "P3",
+   "statut": "En attente client",
+   "technicien": "Michel BLANC",
+   "suite": "Attente de la liste des badges à réactiver."
+  }
+ ]
+}
